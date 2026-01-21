@@ -1,0 +1,5 @@
+{
+  "name": "InSight — Because the answer is right there in the image!",
+  "description": "An AI-powered word guessing game where you identify hidden keywords from generated images",
+  "requestFramePermissions": []
+}
